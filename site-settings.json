@@ -50,26 +50,26 @@
 	},
 	"site_socials": [
 		{
-			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
-			"icon": "/images/socials/facebook.svg",
-			"description": "Follow us on Facebook"
+			"name": "Linkedin",
+			"url": "https://www.linkedin.com/in/saiful-miqdar-7050511b1/",
+			"icon": "/images/socials/linkedin.svg",
+			"description": "Follow us on Linkedin"
 		},
 		{
 			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
+			"url": "https://x.com/IfulXploit",
 			"icon": "/images/socials/x-twitter.svg",
 			"description": "Follow us on Twitter"
 		},
 		{
 			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
+			"url": "https://github.com/ifulxploit",
 			"icon": "/images/socials/github.svg",
 			"description": "Follow us on Github"
 		},
 		{
 			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
+			"url": "https://www.tiktok.com/@iful_666",
 			"icon": "/images/socials/tiktok.svg",
 			"description": "Follow us on Tiktok"
 		}
